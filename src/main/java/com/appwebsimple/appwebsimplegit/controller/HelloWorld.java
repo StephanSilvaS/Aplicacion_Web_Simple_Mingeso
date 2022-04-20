@@ -11,6 +11,6 @@ public class HelloWorld {
     @RequestMapping(method = RequestMethod.GET)
 
     public String home(){
-        return "Aplicación web muy simple";
+        return "Buenas Tardes USACH";
     }
 }
